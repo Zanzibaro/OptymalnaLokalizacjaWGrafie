@@ -1,0 +1,18 @@
+WYNIKI OPTYMALIZACJI LOKALIZACJI STRAŻY POŻARNEJ
+=================================================
+
+Optymalna lokalizacja straży pożarnej: Szkoła, Urząd
+Minimalna maksymalna odległość: 4.50
+
+Ekscentryczności dla wszystkich węzłów:
+-------------------------------------
+Szkoła: 4.50
+Urząd: 4.50
+Sklep: 5.00
+Dom2: 5.50
+Dom3: 5.50
+Dom4: 6.00
+Kościół: 6.50
+Park: 6.50
+Dom1: 7.00
+Dom5: 7.00
